@@ -2,6 +2,10 @@
 
 > Перевірено на MacBook Air з Apple Silicon. CrossOver прибрав сильні лаги, а запуск із локаллю `zh_CN.GBK` виправив знаки питання замість іконок.
 
+> [!NOTE]
+> Це окремий гайд для запуску гри на macOS. Windows-інструменти CyberPW Assistant запускайте на Windows 7/10/11 або у сумісному Windows-середовищі.
+
+**Швидкі посилання:** [CrossOver](https://www.codeweavers.com/crossover) · [CyberPW](https://cyberpw.fun/) · [CyberPW Assistant 0.90](https://github.com/vitalikjukivskiy/titul_helper/releases/tag/v0.90-design-preview) · [Титули онлайн](https://vitalikjukivskiy.github.io/titulPW/)
 ![Запуск CyberPW через CrossOver](assets/crossover-steps.png)
 
 ## Зміст
@@ -178,3 +182,11 @@ env LANG=zh_CN.GBK LC_ALL=zh_CN.GBK
 Це неофіційний гайд. Після оновлень CyberPW, CrossOver або macOS спосіб запуску може змінитися.
 
 Для діагностики вказуйте модель Mac, версію macOS, версію CrossOver, графічний режим і додавайте скриншот помилки.
+
+## Корисні посилання
+
+- [Сайт CyberPW](https://cyberpw.fun/)
+- [Форум CyberPW](https://forum.cyberpw.fun/)
+- [CyberPW Assistant 0.90 Design Preview](https://github.com/vitalikjukivskiy/titul_helper/releases/tag/v0.90-design-preview)
+- [Онлайн-довідник титулів](https://vitalikjukivskiy.github.io/titulPW/)
+- [Повідомити про проблему з цим гайдом](https://github.com/vitalikjukivskiy/cyberpw-mac-crossover-guide/issues)
